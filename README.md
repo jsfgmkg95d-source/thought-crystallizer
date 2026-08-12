@@ -155,6 +155,25 @@ Thought Crystallizer Plugin。
 
 </details>
 
+## Feedback
+
+The most useful feedback is a judgment error:
+
+- [False positive](https://github.com/jsfgmkg95d-source/thought-crystallizer/issues/new?template=false-positive.yml): the Skill crystallized material that should have been rejected.
+- [False negative](https://github.com/jsfgmkg95d-source/thought-crystallizer/issues/new?template=false-negative.yml): the Skill rejected material that contained a durable, reusable insight.
+
+GitHub Issues are public. **Do not paste private, confidential, company, or
+sensitive conversations.** Describe the behavior without reproducing the source,
+or provide a synthetic example written from scratch that does not preserve the
+original wording, structure, entities, numbers, or distinctive details.
+
+Installation problems, schema problems, and other suggestions may be submitted
+through the [general issue form](https://github.com/jsfgmkg95d-source/thought-crystallizer/issues/new).
+
+Maintainer workflow: reproduce safely -> convert the behavior into a synthetic
+eval when appropriate -> update the Skill -> run regression checks -> identify
+the fixing release in the Issue.
+
 ## Example
 
 Input:
