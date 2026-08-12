@@ -1,13 +1,25 @@
 # Thought Crystallizer
 
-Turn a useful AI conversation into durable knowledge — without mistaking a summary, opinion, or confident guess for an insight.
+[GitHub — Official Repository](https://github.com/jsfgmkg95d-source/thought-crystallizer) · [Gitee — 中国大陆镜像 / Mainland China Mirror](https://gitee.com/heavenly-realtiantiange/thought-crystallizer)
 
-Thought Crystallizer is an instruction-first Agent Skill. Give it a conversation, research note, retrospective, or decision record. It decides whether anything is worth preserving and returns either:
+> **Not every AI conversation deserves to become knowledge.**
 
-- one to three evidence-bounded Crystal Candidates; or
-- a strict DO NOT CRYSTALLIZE result.
+Thought Crystallizer decides what is actually worth preserving, instead of
+summarizing everything.
+
+It separates **Fact**, **Mechanism**, and **Hypothesis**; preserves evidence,
+boundaries, and falsification conditions; and refuses to crystallize low-value
+material.
+
+![Thought Crystallizer evaluates two synthetic notes and returns CRYSTALLIZE for a bounded decision and DO NOT CRYSTALLIZE for an untestable slogan.](assets/readme-demo.gif)
+
+<sub>Two from-scratch synthetic examples. The Skill returns one to three
+evidence-bounded Crystal Candidates, or a strict DO NOT CRYSTALLIZE result.</sub>
 
 ## Why it exists
+
+**AI is already good at summarizing. The harder problem is deciding what
+deserves to be remembered.**
 
 A summary tells you what was discussed.
 
@@ -115,6 +127,10 @@ Compare this note with the existing crystal and create a new card only if the va
 
 <details>
 <summary>简体中文安装说明</summary>
+
+![思想结晶器评估两个合成笔记：将有边界的决策判定为“应结晶”，将无法检验的口号判定为“不应结晶”。](assets/readme-demo.zh-CN.gif)
+
+<sub>演示内容为从零编写的合成示例，不包含真实或私人材料。</sub>
 
 #### Codex
 
