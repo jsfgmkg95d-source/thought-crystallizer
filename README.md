@@ -11,7 +11,9 @@ reusable, testable knowledge.
 
 ### 💬 I normally chat with ChatGPT, DeepSeek, Doubao, Claude, or Gemini
 
-👉 Download: [**Thought-Crystallizer-Chat-EN.md**](portable/Thought-Crystallizer-Chat-EN.md)
+👉 Download: [**Thought-Crystallizer-Chat-EN.md**](https://github.com/jsfgmkg95d-source/thought-crystallizer/releases/download/v0.1.0/Thought-Crystallizer-Chat-EN.md)
+
+Mainland China mirror: [download the same file from Gitee](https://gitee.com/heavenly-realtiantiange/thought-crystallizer/releases/download/v0.1.0/Thought-Crystallizer-Chat-EN.md).
 
 This is the right choice for most people.
 
@@ -28,11 +30,13 @@ This is the right choice for most people.
 
 **Not sure which one to choose? Download this one.**
 
-Chinese-first user? Download [**Thought-Crystallizer-Chat-ZH.md**](portable/Thought-Crystallizer-Chat-ZH.md).
+Chinese-first user? Download [**Thought-Crystallizer-Chat-ZH.md**](https://github.com/jsfgmkg95d-source/thought-crystallizer/releases/download/v0.1.0/Thought-Crystallizer-Chat-ZH.md).
 
 ### 🧩 My AI tool supports Agent Skills
 
-👉 From [Releases](https://github.com/jsfgmkg95d-source/thought-crystallizer/releases), download **Thought-Crystallizer-Skill-v0.1.0.zip**.
+👉 Download [**Thought-Crystallizer-Skill-v0.1.0.zip**](https://github.com/jsfgmkg95d-source/thought-crystallizer/releases/download/v0.1.0/Thought-Crystallizer-Skill-v0.1.0.zip).
+
+Mainland China mirror: [download the same package from Gitee](https://gitee.com/heavenly-realtiantiange/thought-crystallizer/releases/download/v0.1.0/Thought-Crystallizer-Skill-v0.1.0.zip).
 
 Use this native package with tools that support Agent Skills or `SKILL.md`. It
 contains `SKILL.md`, `references/`, and the other Skill assets.

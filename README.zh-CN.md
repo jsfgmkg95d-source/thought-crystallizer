@@ -10,7 +10,9 @@
 
 ### 💬 我平时就是用 ChatGPT、DeepSeek、豆包、Claude、Gemini 聊天
 
-👉 下载：[**Thought-Crystallizer-Chat-ZH.md**](portable/Thought-Crystallizer-Chat-ZH.md)
+👉 下载：[**Thought-Crystallizer-Chat-ZH.md**](https://github.com/jsfgmkg95d-source/thought-crystallizer/releases/download/v0.1.0/Thought-Crystallizer-Chat-ZH.md)
+
+GitHub 访问不便时，可使用 [Gitee 镜像下载（同一文件）](https://gitee.com/heavenly-realtiantiange/thought-crystallizer/releases/download/v0.1.0/Thought-Crystallizer-Chat-ZH.md)。
 
 适合绝大多数普通用户。
 
@@ -31,7 +33,9 @@
 
 ### 🧩 我的 AI 工具支持 Agent Skills
 
-👉 前往 [Releases](https://github.com/jsfgmkg95d-source/thought-crystallizer/releases)，下载 **Thought-Crystallizer-Skill-v0.1.0.zip**。
+👉 下载 [**Thought-Crystallizer-Skill-v0.1.0.zip**](https://github.com/jsfgmkg95d-source/thought-crystallizer/releases/download/v0.1.0/Thought-Crystallizer-Skill-v0.1.0.zip)。
+
+GitHub 访问不便时，可使用 [Gitee 镜像下载（同一压缩包）](https://gitee.com/heavenly-realtiantiange/thought-crystallizer/releases/download/v0.1.0/Thought-Crystallizer-Skill-v0.1.0.zip)。
 
 适用于支持 Agent Skills 或 `SKILL.md` 的工具。原生包包含 `SKILL.md`、`references/` 与其他 Skill 文件。
 
